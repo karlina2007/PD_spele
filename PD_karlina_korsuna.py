@@ -25,7 +25,7 @@ def main():
             print("Atā!")
             break
         elif g.lower() == "bingo":
-            print("Malacis!")
+            print("Malacis!🏆")
             break
         elif g.lower() == "s":
             print(randint(1, 76))
