@@ -14,7 +14,7 @@ def print_nums(card):
     print ('   B   I   N   G   O   ')
     print (f' {card[0][0]:>3} {card[1][0]:>3} {card[2][0]:>3} {card[3][0]:>3} {card[4][0]:>3}')
     print (f' {card[0][1]:>3} {card[1][1]:>3} {card[2][1]:>3} {card[3][1]:>3} {card[4][1]:>3}')
-    print (f' {card[0][2]:>3} {card[1][2]:>3}  -- {card[3][2]:>3} {card[4][2]:>3}')
+    print (f' {card[0][2]:>3} {card[1][2]:>3}  ⭐ {card[3][2]:>3} {card[4][2]:>3}')
     print (f' {card[0][3]:>3} {card[1][3]:>3} {card[2][2]:>3} {card[3][3]:>3} {card[4][3]:>3}')
     print (f' {card[0][4]:>3} {card[1][4]:>3} {card[2][3]:>3} {card[3][4]:>3} {card[4][4]:>3}')
 #mazāk par 3 nevar, bet var vairāk
