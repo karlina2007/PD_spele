@@ -20,7 +20,7 @@ def print_nums(card):
 #mazāk par 3 nevar, bet var vairāk
 def main():
     while True:
-        g = input("Kā varu palīdzēt?")
+        g = input("Kā varu palīdzēt? Spiediet ģ, lai ģenerētu kartiņu, s, lai ģenerētu nejaušu skaitli, q, ja gribat beigt spēli, BINGO, ja esat uzvarējis!")
         if g.lower() == "q":
             print("Atā!")
             break
